@@ -1,5 +1,5 @@
 header{
-    background-color: #000237;
+    background-color: #091d3f;
     color: white;
 }
 
@@ -8,7 +8,7 @@ cabecalho-imagem{
 }
 
 .cabecalho {
-    background-color: #424E61;
+    background-color: #091d3f;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -37,7 +37,7 @@ cabecalho-lista-item{
 }
 
 .cabecalho {
-    background-color: #424E61;
+    background-color: #0a1c38;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -66,8 +66,32 @@ cabecalho-lista-item{
 }
 .escola{
     background-image: linear-gradient(#424E61, #4EBFE9);
-    color: white;
+    color:WHITe;
     display: flex;
 }
+escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
 
+escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 68px 15;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    text-align: center;
+    width: 44px;
+    padding: 4px 8px;
 
+}
+.estudante-div{
+    text-align: center;
+    padding: 44px 0;
+}
