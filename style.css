@@ -83,15 +83,15 @@ escola-div-conteudo{
     padding: 68px 15;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 150px;
 }
 .estudante-icone{
     text-align: center;
-    width: 44px;
-    padding: 4px 8px;
+    width: 24px;
+    padding: 2px 0px;
 
 }
 .estudante-div{
     text-align: center;
-    padding: 44px 0;
+    padding: 24px ;
 }
