@@ -1,97 +1,26 @@
-header{
-    background-color: #091d3f;
-    color: white;
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
 }
 
-cabecalho-imagem{
-    width: 20%;
+body {
+    background-color: var(--cor-de-fundo);
 }
 
-.cabecalho {
-    background-color: #091d3f;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+<body>
+    <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+</body>
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
 }
-
-cabecalho-lista-item{
-    display: inline-block;
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
 }
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-}
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-}
-
-*{
+* {
     margin: 0;
     padding: 0;
-}
-
-.cabecalho {
-    background-color: #0a1c38;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.cabecalho-imagem{
-    width: 20%;
-}
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-}
-.escola-imagem{
-    width: 25%;
-}
-.escola{
-    background-image: linear-gradient();
-}
-.escola{
-    background-image: linear-gradient(#424E61, #4EBFE9);
-    color: white;
-}
-.escola{
-    background-image: linear-gradient(#424E61, #4EBFE9);
-    color:WHITe;
-    display: flex;
-}
-escola-div-conteudo{
-    width: 35%;
-}
-.escola-titulo{
-    padding: 24px 0;
-}
-
-escola-div-conteudo{
-    width: 35%;
-}
-.escola-titulo{
-    padding: 68px 15;
-}
-.estudante-imagem{
-    width: 150px;
-}
-.estudante-icone{
-    text-align: center;
-    width: 24px;
-    padding: 2px 0px;
-
-}
-.estudante-div{
-    text-align: center;
-    padding: 24px ;
 }
